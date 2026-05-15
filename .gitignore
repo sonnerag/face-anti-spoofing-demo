@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.onnx
+*.mp4
+*.avi
+Dataset/
+datasets/
+runs/.idea
